@@ -22,7 +22,7 @@ package mycalculator;
  * @author Ramanpreet Matharu
  * @version 1.0
  * @since Jan 14, 2020
- @author paramjeet kaur
+ 
  */
 public class Calculator {
 
@@ -30,6 +30,7 @@ public class Calculator {
 
     /**
      * The no-argument constructor assigns
+     @author Ramanpreet Matharu
      */
     public Calculator() {
     }
